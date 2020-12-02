@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class InterviewPreparationKit_WarmUpChallenges_StringMakingAnagrams {
+public class InterviewPreparationKit_String_MakingAnagrams {
 
     // Complete the makeAnagram function below.
     static int makeAnagram(String a, String b) {

@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class InterviewPreparationKit_WarmUpChallenges_ArraysLeftRotation {
+public class InterviewPreparationKit_Arrays_LeftRotation {
 
     // Complete the rotLeft function below.
     static int[] rotLeft(int[] a, int d) {

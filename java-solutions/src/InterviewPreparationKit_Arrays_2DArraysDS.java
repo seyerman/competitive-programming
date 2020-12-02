@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class InterviewPreparationKit_WarmUpChallenges_2DArraysDS {
+public class InterviewPreparationKit_Arrays_2DArraysDS {
 
     // Complete the hourglassSum function below.
     static int hourglassSum(int[][] arr) {

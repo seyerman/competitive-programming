@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class InterviewPreparationKit_WarmUpChallenges_HTRansomNote {
+public class InterviewPreparationKit_HashTables_RansomNote {
 
     // Complete the checkMagazine function below.
     static void checkMagazine(String[] magazine, String[] note) {
